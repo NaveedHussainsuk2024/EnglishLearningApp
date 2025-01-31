@@ -386,4 +386,4 @@ elif page == "Speaking Module":
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.write("Developed by BotBuilders.")
+st.sidebar.write("Developed by Naveed Hussain.")
